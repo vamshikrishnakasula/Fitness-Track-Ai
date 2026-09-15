@@ -1,0 +1,10 @@
+{
+  "name": "FitTrack AI - Full Stack AI Fitness & Calorie Tracker",
+  "description": "Full-stack AI fitness tracker with Gemini food image calorie scanning, macro tracking, workout logging, hydration tracker, AI fitness coaching, and progress analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
